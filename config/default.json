@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost/mern",
+  "jwtSecret": "NewDay2019",
+  "jwtExpire": 3600,
+  "port": 5000
+}
